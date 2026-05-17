@@ -1,12 +1,12 @@
 # Douglas P Nelson Coaching — dpnelson.com
 > *Become Who You Are · Get The Right Sense of Direction*
 
-## Migration from Wordpress -> Vite -> next.js/Astro
-
 [![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](https://github.com/drasticstatic/.github)
 [![Public Preview](https://img.shields.io/badge/%F0%9F%8C%90%20Public%20Preview-Available-brightgreen)](https://drasticstatic.github.io/dpnelson-public-preview/) [![Synced via GitExporter](https://img.shields.io/badge/Synced%20via-GitExporter-blue)](https://github.com/open-condo-software/gitexporter) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A5%20Firecrawl%20Build-orange)](https://github.com/drasticstatic/dpnelson) [![Sync](https://github.com/drasticstatic/dpnelson/actions/workflows/sync-public.yml/badge.svg)](https://github.com/drasticstatic/dpnelson/actions/workflows/sync-public.yml)
 
 ---
+
+## Migration from Wordpress -> Vite -> next.js/Astro
 
 **🌐 [Explore the Public Preview →](https://drasticstatic.github.io/dpnelson-public-preview/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**🌐 [Explore the Current Wordpress →](https://www.dpnelson.com/)**
