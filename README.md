@@ -1,4 +1,5 @@
-# Douglas P Nelson Coaching — Migrate dpnelson.com from Wordpress -> Vite -> next.js/Astro
+# Douglas P Nelson Coaching — dpnelson.com
+## Migrate from Wordpress -> Vite -> next.js/Astro
 
 > *Become Who You Are · Get The Right Sense of Direction*
 
@@ -7,7 +8,7 @@
 
 ---
 
-**🌐 [Explore the Public Preview →](https://drasticstatic.github.io/dpnelson-public-preview/)** 
+**🌐 [Explore the Public Preview →](https://drasticstatic.github.io/dpnelson-public-preview/)**&nbsp;&nbsp;&nbsp;&nbsp;
 **🌐 [Explore the Current Wordpress →](https://www.dpnelson.com/)**
 
 ---
