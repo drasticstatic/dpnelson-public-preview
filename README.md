@@ -1,8 +1,24 @@
-# Douglas P Nelson Coaching — dpnelson.com
-> *Become Who You Are · Get The Right Sense of Direction*
+<!-- readme-standard: 2026-11-02 -->
+<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-lightgrey?style=flat)](https://github.com/drasticstatic/.github)
-[![Public Preview](https://img.shields.io/badge/%F0%9F%8C%90%20Public%20Preview-Available-brightgreen)](https://drasticstatic.github.io/dpnelson-public-preview/) [![Synced via GitHub Actions](https://img.shields.io/badge/Synced%20via-GitHub%20Actions-blue)](https://github.com/open-condo-software/gitexporter) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-blueviolet)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A5%20Firecrawl%20Build-orange)](https://github.com/drasticstatic/dpnelson) [![Sync](https://github.com/drasticstatic/dpnelson/actions/workflows/sync-public.yml/badge.svg)](https://github.com/drasticstatic/dpnelson/actions/workflows/sync-public.yml)
+<img src="docs/assets/readme/banner.svg" width="100%" alt="Douglas P Nelson Coaching: four stops along a road light in turn, the intake steps of discovery, clarity, alignment and action.">
+
+# Douglas P Nelson Coaching — dpnelson.com
+
+*Become Who You Are · Get The Right Sense of Direction*
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-1a1a2e?style=flat)](https://github.com/drasticstatic/.github)
+[![Public Preview](https://img.shields.io/badge/%F0%9F%8C%90%20Public%20Preview-Available-5c1a2b)](https://drasticstatic.github.io/dpnelson-public-preview/) [![Synced via GitHub Actions](https://img.shields.io/badge/Synced%20via-GitHub%20Actions-1a1a2e)](https://github.com/open-condo-software/gitexporter) [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code%20CLI-5c1a2b)](https://code.claude.com/docs/en/overview) [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A5%20Firecrawl%20Build-800020)](https://github.com/drasticstatic/dpnelson) [![Sync](https://github.com/drasticstatic/dpnelson/actions/workflows/sync-public.yml/badge.svg)](https://github.com/drasticstatic/dpnelson/actions/workflows/sync-public.yml)
+
+<img src="docs/assets/readme/icons/map-pin.svg" width="16" height="16" alt=""> **You are here:** drasticstatic lab › source `dpnelson` (private) → twin `dpnelson-public-preview` (public) · `main` is the working branch
+
+</div>
+
+## <img src="docs/assets/readme/icons/compass.svg" width="24" height="24" alt=""> TL;DR
+
+1. <img src="docs/assets/readme/icons/sprout.svg" width="16" height="16" alt=""> **What this is.** The rebuild of dpnelson.com, Douglas P Nelson's IFS (Internal Family Systems) coaching practice, from WordPress to a Vite + React static site.
+2. <img src="docs/assets/readme/icons/users-round.svg" width="16" height="16" alt=""> **Who it is for.** Douglas, its primary owner, and the people who come to his practice. Christopher builds it with Alfred.
+3. <img src="docs/assets/readme/icons/footprints.svg" width="16" height="16" alt=""> **Do this first.** `npm ci`, then `npm run dev`, or [explore the public preview](https://drasticstatic.github.io/dpnelson-public-preview/).
 
 ---
 
@@ -152,3 +168,9 @@ Every push to `main` triggers `.github/workflows/sync-public.yml`:
 *Built and maintained by [drasticstatic](https://github.com/drasticstatic) with Anthropic Claude Code CLI*
 
 *🗺️ Looking for something specific? → [Public Preview](https://drasticstatic.github.io/dpnelson-public-preview/)*
+
+## <img src="docs/assets/readme/icons/git-pull-request.svg" width="24" height="24" alt=""> Suggest a change
+
+Noticed something? Open an [issue](../../issues) or a pull request against `main`; Christopher reads them and a person with the role merges. Not on GitHub? Reach him through any channel on [his profile](https://github.com/drasticstatic). On the public preview, please open an issue rather than a pull request: its files are synced from the private source, so a change made only there would be overwritten.
+
+<sub>The front door follows the living [README standard](https://github.com/drasticstatic/my-template/blob/main/README-STANDARD.md). Copy it, improve it.</sub>
